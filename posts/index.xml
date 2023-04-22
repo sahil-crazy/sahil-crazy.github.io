@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>**[sahil-crazy.github.io](https://sahil-crazy.github.io/)**</copyright>
-    <lastBuildDate>Wed, 15 Mar 2023 10:28:32 -0400</lastBuildDate><atom:link href="https://sahil-crazy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Apr 2023 16:47:16 -0400</lastBuildDate><atom:link href="https://sahil-crazy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic commands: Understanding basic commands like cd, ls, mkdir, rm, etc.</title>
+      <link>https://sahil-crazy.github.io/posts/basic_commands_bash/</link>
+      <pubDate>Sat, 22 Apr 2023 16:47:16 -0400</pubDate>
+      
+      <guid>https://sahil-crazy.github.io/posts/basic_commands_bash/</guid>
+      <description>In this post, we&amp;rsquo;ll cover some of the most commonly used basic commands in command-line interface (CLI) environments such as Unix, Linux, and macOS. These commands include cd (change directory), ls (list directory contents), mkdir (make directory), rm (remove file or directory), cp (copy file or directory), mv (move or rename file or directory), touch (create an empty file), cat (view file content), and echo (display a line of text). By understanding and mastering these commands, you can navigate and manipulate the file system with ease, and increase your productivity and efficiency in using the command line. We&amp;rsquo;ll explain the syntax and usage of each command and provide examples to illustrate their functions.</description>
+    </item>
+    
     <item>
       <title>Comptia A&#43; Core 1</title>
       <link>https://sahil-crazy.github.io/posts/comptia-a&#43;-core-1/</link>
