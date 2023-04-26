@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sahil-crazy.github.io/posts/basic_commands_bash/</loc>
-    <lastmod>2023-04-22T16:47:16-04:00</lastmod>
+    <loc>https://sahil-crazy.github.io/posts/file-manipulation-bash/</loc>
+    <lastmod>2023-04-25T18:39:56-04:00</lastmod>
   </url><url>
     <loc>https://sahil-crazy.github.io/posts/</loc>
-    <lastmod>2023-04-22T16:47:16-04:00</lastmod>
+    <lastmod>2023-04-25T18:39:56-04:00</lastmod>
   </url><url>
     <loc>https://sahil-crazy.github.io/</loc>
+    <lastmod>2023-04-25T18:39:56-04:00</lastmod>
+  </url><url>
+    <loc>https://sahil-crazy.github.io/posts/basic_commands_bash/</loc>
     <lastmod>2023-04-22T16:47:16-04:00</lastmod>
   </url><url>
     <loc>https://sahil-crazy.github.io/posts/comptia-a&#43;-core-1/</loc>

@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>**[sahil-crazy.github.io](https://sahil-crazy.github.io/)**</copyright>
-    <lastBuildDate>Sat, 22 Apr 2023 16:47:16 -0400</lastBuildDate><atom:link href="https://sahil-crazy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Apr 2023 18:39:56 -0400</lastBuildDate><atom:link href="https://sahil-crazy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>File manipulation: Learning how to manipulate files using commands like cp, mv,…</title>
+      <link>https://sahil-crazy.github.io/posts/file-manipulation-bash/</link>
+      <pubDate>Tue, 25 Apr 2023 18:39:56 -0400</pubDate>
+      
+      <guid>https://sahil-crazy.github.io/posts/file-manipulation-bash/</guid>
+      <description>In this post, we&amp;rsquo;ll dive into file manipulation using command-line interface (CLI) commands such as cp (copy file or directory), mv (move or rename file or directory), rm (remove file or directory), mkdir (make directory), touch (create an empty file), cat (view file content), and grep (search for a pattern in a file). By mastering these commands, you can efficiently manipulate files and directories, such as copying, moving, renaming, deleting, and searching for specific content. We&amp;rsquo;ll provide examples to illustrate the syntax and usage of each command and show how they can be combined to perform more complex tasks. We&amp;rsquo;ll also cover the use of wildcards, such as * and ?, to perform actions on multiple files at once. Whether you&amp;rsquo;re working with a few files or hundreds, understanding these file manipulation commands can save you time and streamline your workflow.</description>
+    </item>
+    
     <item>
       <title>Basic commands: Understanding basic commands like cd, ls, mkdir, rm, etc.</title>
       <link>https://sahil-crazy.github.io/posts/basic_commands_bash/</link>
